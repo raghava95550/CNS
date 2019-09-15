@@ -1,5 +1,5 @@
 # CNS
-Cryptography and networks 
+Cryptography and Networks Security.
 
 Cryptography algorithms that implemented in java.
 
