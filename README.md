@@ -1,6 +1,6 @@
 # CNS
 Cryptography and Networks Security.
 
-Cryptography algorithms that implemented in java.
+Cryptography algorithms that are implemented in java.
 
 Some of the Attacks are also implemented here. 
